@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Practicum Website
+subtitle: Website Development & Design
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: practicum_sm.png
+thumbnail: practicum-thumb_sm.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Santa Barbara City College Biological Sciences
+category: Web Design & Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
