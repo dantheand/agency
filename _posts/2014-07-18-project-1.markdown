@@ -4,12 +4,13 @@ subtitle: Video Lecture Series
 layout: default
 modal-id: 2
 date: 2016-01-01
-img: youtube_sm.png
-thumbnail: youtube-thumb_sm.png
+img: youtube-lg.png
+thumbnail: youtube-thumb.png
 alt: image-alt
-project-date: Fall 2015
-client: UC Berkeley Molecular & Cell Biology
-category: Curriculum Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-link: https://www.youtube.com/channel/UCpA8uC2qZdOcAJ9eqAVaYjw/videos
+project-date: Fall 2015 &mdash; Present
+department: UC Berkeley Molecular & Cell Biology
+department-link: https://mcb.berkeley.edu/
+description: I have been developing a set of video lectures for the UC Berkeley Biophysical Chemistry course. These video lectures are unique to this course and act as a supplementary educational resource enabling student success in this highly-demanding course.
 
 ---
